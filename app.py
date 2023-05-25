@@ -10,5 +10,3 @@ st.header("Selectbox from a list")
 contact_selected = st.selectbox("How would you like to be contacted?",
                                 options=contact_options)
 
-st.write("Selectbox returns:", contact_selected,
-         "of type", type(contact_selected))
