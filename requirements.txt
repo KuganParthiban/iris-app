@@ -4,4 +4,4 @@ seaborn
 streamlit
 matplotlib
 sklearn
-#-e .
+-e .
