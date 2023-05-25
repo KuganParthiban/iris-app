@@ -3,7 +3,7 @@ import numpy as np
 
 st.title("Create a Selectbox")
 
-contact_options = ["Emai'", "Phone", "WhatsApp"]
+contact_options = ["Email", "Phone", "WhatsApp"]
 
 st.header("Selectbox from a list")
 
